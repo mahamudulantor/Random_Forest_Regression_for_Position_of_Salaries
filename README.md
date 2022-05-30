@@ -1,4 +1,7 @@
 # Random Forest Regression
+<p align="center">
+  <img src="Save files/RF Algorithm.jpg" width="450" title="Random Forest Regression">
+</p>
 Random forest is a supervised learning algorithm which uses ensemble learning method for classification and regression. </br>
 
 Ensemble learning method is a technique that combines predictions from multiple machine learning algorithms to make a more accurate prediction. Random forest is a bagging (Bootstrap Aggregation) technique and not a boosting technique.</br>
